@@ -315,4 +315,3 @@ print(f"My favourite movie is {movie}.")
 print(sys.version)
 print(dt.now())
 
-print('Hello world')
